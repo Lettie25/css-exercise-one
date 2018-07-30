@@ -1,6 +1,6 @@
 body {
   font-size: 14px;
-  
+
 }
 
 nav {
@@ -37,3 +37,7 @@ h3 {
   height: 100px;
   margin: 10px 0;
   width: 100%;
+
+.color {
+    background-color:purple;
+  }
